@@ -92,7 +92,7 @@ Clineの設定画面を開きます。
 - Anthropic API Key: 先ほど作ったAPIキー
 - Use custom base URL: オフ
 - Model: claude-3-7-sonnet-20250219
-- Enable extended thinking: オン
+- Enable extended thinking: ~~オン~~ ⚠️⚠️⚠️⚠️訂正⚠️⚠️⚠️⚠️ **オフ**
 - Use different models for Plan and Act modes: オフ
 - Allow anonymous error and usage reporting: オフ
 
@@ -158,6 +158,6 @@ Homebrewのインストールは、AIだけではできず、人間のアクシ�
 
 このような感じになったらWebサービスが立ち上がっています。
 
-http://localhost:3000 にアクセスしてみてください。
+http://localhost:3000 にアクセスしてみてください。OkippaのWebサービスが表示されたでしょうか？
 
 これで環境構築は完了です！
